@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EasyWin\\Interface Segregation Principle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5FB55B-461C-4A16-9597-5F50EEB11A28}|Interface Segregation Principle.vcxproj|D:\\EasyWin\\Interface Segregation Principle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E5FB55B-461C-4A16-9597-5F50EEB11A28}|Interface Segregation Principle.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\EasyWin\\Interface Segregation Principle\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\EasyWin\\Interface Segregation Principle\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T10:24:52.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
